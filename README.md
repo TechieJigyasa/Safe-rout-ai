@@ -236,7 +236,7 @@ npm run dev
 
 ##  Author
 
-### Jyoti Mishra
+### Jyoti Mishra & Jigyasa Garg
 
 Passionate about building technology-driven solutions that create safer and smarter communities through intelligent software systems.
 
